@@ -1,0 +1,33 @@
+body {
+  font-family: Papyrus, fantasy;
+  background-color: #d5bde4;
+  margin: 0;
+  padding: 40px;
+
+}
+
+a {
+  color: #1929a0;
+}
+
+.highlighted {
+  background-color: #d5bde4;
+  color: #000000 ;
+  padding: 2px;
+  font-family: sans-serif;
+}
+
+.title {
+  text-align: center;
+}
+
+.rounded {
+  border-radius: 50%;
+  width: 200px;
+  margin: 40px auto;
+  display: block;
+}
+
+#list-title {
+  color: #37217a;
+}
